@@ -1,0 +1,25 @@
+# Core
+numpy==1.26.4
+pandas==2.2.2
+scipy==1.13.1
+
+# ML
+scikit-learn==1.5.1
+lightgbm==4.5.0
+
+# Visualization (EDA, reliability diagrams, threshold plots)
+matplotlib==3.10.9
+seaborn==0.13.2
+
+# Notebook environment
+jupyter==1.0.0
+ipykernel==6.29.5
+
+# Frontend demo (Streamlit)
+streamlit==1.37.0
+joblib==1.4.2
+
+# Optional: only needed if you build the Flask/FastAPI endpoint
+# flask==3.0.3
+# fastapi==0.111.0
+# uvicorn==0.30.1
