@@ -7,11 +7,6 @@ A machine learning pipeline for a Learning Management System (LMS) that:
 
 ---
 
-## Demo Video
-[▶ Watch Demo on YouTube](https://www.youtube.com/watch?v=YOUR_LINK_HERE)
-
----
-
 ## Project Structure
 
 ```
