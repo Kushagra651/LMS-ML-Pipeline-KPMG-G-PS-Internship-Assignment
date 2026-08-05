@@ -6,6 +6,12 @@ A machine learning pipeline for a Learning Management System (LMS) that:
 3. **Routes doubts** automatically — high confidence → auto-approve, low confidence → teacher review
 ---
 
+
+[▶ Watch Demo on YouTube](https://youtu.be/LsDuh1J3tBA)
+
+
+---
+
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/d4866fa5-7f56-470a-be6d-12161b93c873" />
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/3fb24b35-b6f3-42ac-ab6d-f8ebbb8f9662" />
 
